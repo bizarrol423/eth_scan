@@ -1,3 +1,3 @@
 all:
-	@clear 
+	@clear
 	@venv/bin/python3 main.py

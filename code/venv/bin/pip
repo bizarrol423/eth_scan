@@ -1,4 +1,4 @@
-#!/Users/michail/work/freelance/eth_scan/code/venv/bin/python3.11
+#!/Users/michail/work/freelance/eth_scan/google_tables/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
