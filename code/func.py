@@ -6,6 +6,9 @@ email = "EMAIL"
 id_table = "IDTABLE"
 WEI = 1000000000000000000
 
+'''
+получение количества eth
+'''
 def get_eth(AccountUrl: str) -> None:
     url = "https://api.etherscan.io/api?module=account&action=balancemulti"
     url += f"&address={AccountUrl}"
